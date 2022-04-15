@@ -6,4 +6,12 @@ bow wow
 corgi
 shepherd
 lh
-ccccc
+lh_squirtle
+bulbasaur
+charmelon
+charizard
+ivysaur
+venasaur
+wartortle
+blastoise
+>>>>>>> origin/merge-exercise
